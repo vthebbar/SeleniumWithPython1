@@ -1,0 +1,25 @@
+DEBUG:root:Debug Message
+INFO:root:Info Message
+WARNING:root:Warning Message
+ERROR:root:Error Message
+CRITICAL:root:Critical Message
+2021-10-28 11:29:04,082:  DEBUG:  Debug Message:
+2021-10-28 11:29:04,082:  INFO:  Info Message:
+2021-10-28 11:29:04,082:  WARNING:  Warning Message:
+2021-10-28 11:29:04,082:  ERROR:  Error Message:
+2021-10-28 11:29:04,082:  CRITICAL:  Critical Message:
+2021-10-28 11:29:35,473:  DEBUG:  Debug Message
+2021-10-28 11:29:35,473:  INFO:  Info Message
+2021-10-28 11:29:35,473:  WARNING:  Warning Message
+2021-10-28 11:29:35,473:  ERROR:  Error Message
+2021-10-28 11:29:35,473:  CRITICAL:  Critical Message
+2021-10-28 11:42:01,219:  DEBUG:  Debug Message
+2021-10-28 11:42:01,219:  INFO:  Info Message
+2021-10-28 11:42:01,219:  WARNING:  Warning Message
+2021-10-28 11:42:01,219:  ERROR:  Error Message
+2021-10-28 11:42:01,219:  CRITICAL:  Critical Message
+2021-10-28 11:43:04,988:  DEBUG:  Debug Message
+2021-10-28 11:43:04,988:  INFO:  Info Message
+2021-10-28 11:43:04,988:  WARNING:  Warning Message
+2021-10-28 11:43:04,988:  ERROR:  Error Message
+2021-10-28 11:43:04,988:  CRITICAL:  Critical Message
